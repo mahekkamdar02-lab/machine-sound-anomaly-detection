@@ -6,13 +6,4 @@ scikit-learn
 soundfile
 tqdm
 
-# Uncomment when you reach Week 5+ (autoencoder / CNN):
-# torch
-# torchvision
 
-# Uncomment when you reach Week 9 (explainability):
-# shap
-# captum
-
-# Uncomment when you reach Week 11 (dashboard):
-# streamlit
